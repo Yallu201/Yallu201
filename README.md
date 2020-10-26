@@ -25,5 +25,6 @@ dlruddlf07@gmail.com
 
 
 </div>
-\\<!--  https://shields.io/ -->
-\\<!--  https://simpleicons.org/  -->
+<!--  https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi -->
+<!--  https://shields.io/ -->
+<!--  https://simpleicons.org/  -->
