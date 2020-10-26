@@ -25,3 +25,5 @@ dlruddlf07@gmail.com
 
 
 </div>
+\\<!--  https://shields.io/ -->
+\\<!--  https://simpleicons.org/  -->
