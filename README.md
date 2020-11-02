@@ -18,7 +18,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub)]()  
 [![NODE.js Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)]()
 [![Firebase Badge](https://img.shields.io/badge/Firebase-black?logo=Firebase)]()
-[![JIRA Badge](https://img.shields.io/badge/Jira_Software-blue?logo=Jira%20Software)]()  
+<!-- [![JIRA Badge](https://img.shields.io/badge/Jira_Software-blue?logo=Jira%20Software)]()  -->
 
 **Email**  
 dlruddlf07@gmail.com
