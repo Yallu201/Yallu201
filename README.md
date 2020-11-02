@@ -6,7 +6,6 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)]()
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript)]()  
 **FrontEnd**  
-[![NODE.js Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)]()
 [![React Badge](https://img.shields.io/badge/React-black?logo=React)]()
 [![Redux Badge](https://img.shields.io/badge/Redux-darkmagenta?logo=Redux)]()  
 **Editor**  
@@ -17,6 +16,7 @@
 [![Git Badge](https://img.shields.io/badge/Git-white?logo=Git)]()
 [![GitLab Badge](https://img.shields.io/badge/GitLab-white?logo=GitLab)]()
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub)]()  
+[![NODE.js Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)]()
 [![Firebase Badge](https://img.shields.io/badge/Firebase-black?logo=Firebase)]()
 [![JIRA Badge](https://img.shields.io/badge/Jira_Software-blue?logo=Jira%20Software)]()  
 
