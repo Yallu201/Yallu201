@@ -4,14 +4,14 @@
  
 **Language**  
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)]()
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript)]()  
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript)]()  
 **FrontEnd**  
 [![React Badge](https://img.shields.io/badge/React-black?logo=React)]()
-[![Redux Badge](https://img.shields.io/badge/Redux-darkmagenta?logo=Redux)]()  
+[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=Redux)]()  
 **Editor**  
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=Visual%20Studio%20Code)]()  
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual%20Studio%20Code)]()  
 **Testing**  
-[![Jest Badge](https://img.shields.io/badge/Jest-red?logo=Jest)]()  
+[![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=Jest)]()  
 **Project Management**   
 [![Git Badge](https://img.shields.io/badge/Git-white?logo=Git)]()
 [![GitLab Badge](https://img.shields.io/badge/GitLab-white?logo=GitLab)]()
