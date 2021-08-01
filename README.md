@@ -4,20 +4,26 @@
  
 **Language**  
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)]()
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript)]()  
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)]()  
 **FrontEnd**  
 [![React Badge](https://img.shields.io/badge/React-black?logo=React)]()
 [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=Redux)]()  
-**Editor**  
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual%20Studio%20Code)]()  
+**BackEnd**  
+[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS)]() 
+[![NODE.js Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)]()
+[![Firebase Badge](https://img.shields.io/badge/Firebase-black?logo=Firebase)]()  
 **Testing**  
 [![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=Jest)]()  
-**Project Management**   
+**Code Management**   
 [![Git Badge](https://img.shields.io/badge/Git-white?logo=Git)]()
 [![GitLab Badge](https://img.shields.io/badge/GitLab-white?logo=GitLab)]()
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub)]()  
-[![NODE.js Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)]()
-[![Firebase Badge](https://img.shields.io/badge/Firebase-black?logo=Firebase)]()
+[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub)]()   
+**Editor**  
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual%20Studio%20Code)]()  
+**Project Management**   
+[![JIRA Badge](https://img.shields.io/badge/JiraSoftware-0052CC?logo=jirasoftware)]()  
+**Communication**   
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=Slack)]()  
 <!-- [![JIRA Badge](https://img.shields.io/badge/Jira_Software-blue?logo=Jira%20Software)]()  -->
 
 **Email**  
