@@ -7,7 +7,8 @@
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)]()  
 **FrontEnd**  
 [![React Badge](https://img.shields.io/badge/React-black?logo=React)]()
-[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=Redux)]()  
+[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=Redux)]()
+[![Mobx Badge](https://img.shields.io/badge/Mobx-white?logo=Mobx)]()  
 **BackEnd**  
 [![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS)]() 
 [![NODE.js Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)]()
